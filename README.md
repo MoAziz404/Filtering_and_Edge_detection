@@ -3,29 +3,6 @@ Filtering and edge detection
 
 ##
 
-Team-9
-
-##
-Team members:
-
-1-Shehab Mohamed 
-
-2-Marwan Osama
-
-3-Mohamed Aziz
-
-4-Heidi Hussin
-
-5-Salema AbdalTawab
-
-
-
-
-
-
-
-##
-
 Equalize 
 
 ![Screenshot 2024-03-16 042941](https://github.com/Shehab-Hegab/CV-task-1/assets/137138481/a42ff63b-03b3-45a9-9ee0-db379d5b2b5a)
